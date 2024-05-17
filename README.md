@@ -6,7 +6,7 @@ Cet atelier a pour objectif de vous apprendre à mettre en place place votre env
 Vous allez créer votre hébergement de site, découvrir les Actions et les Secrets GitHUB pour au final mettre en service et exploiter un site Internet.
 Large programme mais tout à fait accessible et ne nécessitant pas de base technique particulière. Juste de l'observation et de la rigueur dans votre travail.
 
--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 Séquence 1 : GitHUB
 -------------------------------------------------------------------------------------------------------
 Objectif : Création d'un Repository GitHUB pour travailler avec son projet  
